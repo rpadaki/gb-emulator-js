@@ -1,0 +1,19 @@
+{
+  "name": "gb-emulator",
+  "version": "1.0.0",
+  "description": "Learning to make a GameBoy emulator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpadaki/gb-emulator-js.git"
+  },
+  "author": "Roshan Padaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpadaki/gb-emulator-js/issues"
+  },
+  "homepage": "https://github.com/rpadaki/gb-emulator-js#readme"
+}
