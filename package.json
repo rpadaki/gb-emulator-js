@@ -4,7 +4,7 @@
   "description": "Learning to make a GameBoy emulator.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rpadaki/gb-emulator-js/issues"
   },
-  "homepage": "https://github.com/rpadaki/gb-emulator-js#readme"
+  "homepage": "https://github.com/rpadaki/gb-emulator-js#readme",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
 }
